@@ -1,0 +1,20 @@
+{
+  "products": [
+    {
+      "id": 1763698925562,
+      "name": "Redmi A3x",
+      "category": "electronics",
+      "price": "32000",
+      "stock": "6",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBXvCnSTfMOjdQNMKLY6InPCMO03DigqkETw&s"
+    },
+    {
+      "id": 1763699596341,
+      "name": "boAt Rockerz 425  HeadPhone",
+      "category": "electronics",
+      "price": "5000",
+      "stock": "20",
+      "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQOlrMLsUaFuj5OQBslO6Bubk5b0ExUI1TZJTan_rK-2MV04iQTSRaLvLwT5238zoQBwKR9eod9kMfa9REkFX02OjTS-Xe9eVgj_xUXcGbdcBmmPttRLwm5"
+    }
+  ]
+}
